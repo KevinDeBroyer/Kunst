@@ -38,7 +38,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 46,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "@PROJECT_PATH@/assets/images/dsc0171-128x192.png",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
