@@ -1808,32 +1808,8 @@ body {
 .cid-qKzvqCKCdH .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qJPk3Lqo6j {
-  background: #ffffff;
-}
-.cid-qJPk3Lqo6j .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-qJPk3Lqo6j .video-block {
-    width: 100% !important;
-  }
-}
-.cid-qJPkFKoILm {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qJPkFKoILm .mbr-text,
-.cid-qJPkFKoILm blockquote {
-  color: #767676;
-}
-.cid-qJPkFKoILm .mbr-text P {
-  color: #ce2828;
-}
 .cid-qJPkcSW7y1 {
-  padding-top: 30px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
